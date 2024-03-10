@@ -1,0 +1,8 @@
+model_name: MedMamba
+ckpt_path: models/
+history_path: evaluation/
+train_data_path: data/train/
+val_data_path: data/val/
+test_data_path: data/test/
+image_size: 224
+classes: 7
